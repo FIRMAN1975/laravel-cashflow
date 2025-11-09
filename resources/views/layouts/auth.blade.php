@@ -9,7 +9,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     {{-- Icon --}}
-    <link rel="icon" href="/logo.png" type="image/x-icon" />
+    <link rel="icon" href="/logo1.png" type="image/x-icon" />
 
     {{-- Judul --}}
     <title>Selamat Datang | Aplikasi Keuangan</title>

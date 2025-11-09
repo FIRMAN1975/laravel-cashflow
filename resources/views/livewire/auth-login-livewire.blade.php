@@ -5,7 +5,7 @@
                 <!-- Logo & Title -->
                 <div class="text-center mb-4">
                     <div class="logo-container mb-3">
-                        <img src="/logo.png" alt="Logo" class="logo-image" style="width: 150px; height: 150px;">
+                        <img src="/logo1.png" alt="Logo" class="logo-image" style="width: 150px; height: 150px;">
                     </div>
                     <h2 class="h3 fw-bold mb-1">Masuk Akun</h2>
                     <p class="text-muted small mb-0">Selamat datang kembali!</p>
